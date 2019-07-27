@@ -1,0 +1,1 @@
+这个是一个mybatisplus的搭建好的mode

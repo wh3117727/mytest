@@ -1,0 +1,9 @@
+server.port=8081
+server.tomcat.uri-encoding=UTF-8
+spring.http.encoding.charset=UTF-8
+spring.datasource.db1-url=jdbc:mysql://127.0.0.1:3306/jeesite?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
+spring.datasource.db1.username=root
+spring.datasource.db1.password=zdd+514
+spring.datasource.db1.driver-class-name=com.mysql.jdbc.Driver
+#mybatis.config-location=classpath:mybati/mybatis-config.xml
+#mybatis.mapper-locations=classpath:mybati/mappers/*.xml
